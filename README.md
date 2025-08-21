@@ -7,3 +7,7 @@ All but one data source comes from Basketball Reference. The exception comes fro
 - https://www.basketball-reference.com/teams/BOS/2024/lineups (and the corresponding site for each team)
 - https://www.basketball-reference.com/leagues/NBA_2024_per_game.html
 - https://www.basketball-reference.com/teams/ATL/2024.html (and the corresponding site for each team)
+
+
+# The data and code in this repository are messy and hard for even me to decipher! But you can read my paper and look at my posters below to get an understanding of my work.
+- https://drive.google.com/drive/folders/1fjC3RtCB0ks2KkBuOagfL0B7zyb4qhjp?usp=sharing
